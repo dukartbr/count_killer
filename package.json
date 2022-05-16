@@ -2,6 +2,7 @@
   "name": "count_killer",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dukartbr.github.io/count_killer/",
   "dependencies": {
     "@chakra-ui/react": "^2.0.0",
     "@emotion/react": "^11",
